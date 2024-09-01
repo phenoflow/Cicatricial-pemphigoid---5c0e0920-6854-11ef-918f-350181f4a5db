@@ -1,0 +1,15 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-omop.js
+inputModule2:
+  class: File
+  path: python/cicatricial---secondary.py
+inputModule3:
+  class: File
+  path: python/cicatricial-pemphigoid-involvement---secondary.py
+inputModule4:
+  class: File
+  path: python/ocular-cicatricial-pemphigoid---secondary.py
+inputModule5:
+  class: File
+  path: python/output-cases.py
